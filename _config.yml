@@ -1,0 +1,28 @@
+name: Cinnamon Girl Music.com
+favicon: null
+layout_spectrum: 0.044324262998998165
+typography_spectrum: 0.9601570616941899
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7244452508166432
+  lightness: 0.9877524846233428
+  saturation: 0.3064297486562282
+  rhythmicContrast: 0.6160264431964606
+purpose: []
